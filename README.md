@@ -18,6 +18,7 @@
 
 <p align="center">
   <a href="https://github.com/Mellon0x?tab=repositories"><img src="https://img.shields.io/badge/Explore-Projects-EBF5FF?style=for-the-badge&labelColor=EAF4FF&color=9BC7FF&logo=github&logoColor=1F3B5B" alt="Explore projects" /></a>
+  <a href="https://x.com/Mellon0x"><img src="https://img.shields.io/badge/Follow-%40Mellon0x-EDF7FF?style=for-the-badge&labelColor=EAF4FF&color=8CCBFF&logo=x&logoColor=1F3B5B" alt="Follow Mellon0x on X" /></a>
   <img src="./assets/spectrum-sigil.svg" width="28" height="28" alt="spectrum accent" />
 </p>
 
@@ -64,6 +65,12 @@ I care about ideas that are useful, clear and a little unexpected.
   <img src="https://img.shields.io/badge/Linux-EAF4FF?style=for-the-badge&logo=linux&logoColor=1F3B5B" alt="Linux" />
 </p>
 
+## `//` Content & Links
+
+<p>
+  <a href="https://x.com/Mellon0x"><img src="https://img.shields.io/badge/X_%2F_Twitter-%40Mellon0x-EDF7FF?style=for-the-badge&labelColor=EAF4FF&color=8CCBFF&logo=x&logoColor=1F3B5B" alt="Mellon0x on X" /></a>
+</p>
+
 ## `//` Building in public
 
 > I’m interested in the overlap of code, creative direction and systems that make ideas easier to ship.
@@ -71,6 +78,10 @@ I care about ideas that are useful, clear and a little unexpected.
 - Tools that remove friction from creative work
 - Automation that makes small teams move faster
 - Experiments with AI, interfaces and content
+
+<p align="center">
+  <strong>Idea → Prototype → Automation → Content → Iterate</strong>
+</p>
 
 <p align="center">
   <img src="./assets/banner-bottom.png" alt="A castle above an ice-blue mountain range" width="100%" />
